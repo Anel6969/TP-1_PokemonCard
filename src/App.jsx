@@ -15,7 +15,7 @@ import Rattata from './img/Rattata.png';
 
 
 const App = () => {
-  const imgMoltres = Moltres
+  const imgMoltres = Moltres 
   const imgAlakazam = Alakazam
   const imgArcanine = Arcanine
   const imgArticuno = Articuno
